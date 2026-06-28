@@ -1,2 +1,1 @@
-
-console.log("Movie  App Started!");
+const apiKey = "118d3a90";
